@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['getswitchstatus',['getSwitchStatus',['../de/d64/group__hallswitchcpphal.html#gab2a012f18f61ba5fa7311827bbeb5da8',1,'Hss']]],
+  ['getswitchstatus',['getSwitchStatus',['../de/d7e/classHss.html#ab2a012f18f61ba5fa7311827bbeb5da8',1,'Hss']]],
   ['gpio',['GPIO',['../d7/dde/classGPIO.html',1,'']]],
   ['gpio_2darduino_2ecpp',['gpio-arduino.cpp',['../df/df8/gpio-arduino_8cpp.html',1,'']]],
   ['gpio_2darduino_2ehpp',['gpio-arduino.hpp',['../d9/d4f/gpio-arduino_8hpp.html',1,'']]],

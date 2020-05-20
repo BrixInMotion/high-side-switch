@@ -5,5 +5,6 @@ var searchData=
   ['config_2ecpp',['config.cpp',['../df/d59/config_8cpp.html',1,'']]],
   ['config_2ehpp',['config.hpp',['../d8/dfd/config_8hpp.html',1,'']]],
   ['currentfilter',['currentFilter',['../de/d7e/classHss.html#a254d9834a4b04b082f847e90f7276382',1,'Hss']]],
-  ['core_20library',['Core Library',['../d8/d03/group__hsscorelib.html',1,'']]]
+  ['config',['Config',['../d0/dc3/group__hssConfig.html',1,'']]],
+  ['core_20library',['Core Library',['../d7/d24/group__hssCorelib.html',1,'']]]
 ];

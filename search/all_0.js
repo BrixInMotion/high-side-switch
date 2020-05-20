@@ -11,5 +11,6 @@ var searchData=
   ['ampsoffset',['ampsOffset',['../d1/dcd/structBtsVariants__t.html#ac683610034d2016cd435c77c8a1a297c',1,'BtsVariants_t']]],
   ['analogdigitalconverter',['AnalogDigitalConverter',['../d3/d68/classAnalogDigitalConverter.html',1,'']]],
   ['analogreadbutton',['analogReadButton',['../d9/d41/classHssBoard.html#a53c0b404bfbe084f47d138bca4b318a3',1,'HssBoard']]],
-  ['arduino_5funo',['ARDUINO_UNO',['../df/d59/config_8cpp.html#a5f3156aa87ba79f9881b8ba92bb7dbf8',1,'ARDUINO_UNO():&#160;config.cpp'],['../d8/dfd/config_8hpp.html#a5f3156aa87ba79f9881b8ba92bb7dbf8',1,'ARDUINO_UNO():&#160;config.cpp']]]
+  ['arduino_5funo',['ARDUINO_UNO',['../dc/d15/group__arduinoWrapper.html#ga5f3156aa87ba79f9881b8ba92bb7dbf8',1,'ARDUINO_UNO():&#160;config.cpp'],['../dc/d15/group__arduinoWrapper.html#ga5f3156aa87ba79f9881b8ba92bb7dbf8',1,'ARDUINO_UNO():&#160;config.cpp']]],
+  ['arduino',['Arduino',['../d3/dbe/group__frameworkArduino.html',1,'']]]
 ];

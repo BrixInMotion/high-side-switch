@@ -1,7 +1,7 @@
 <map id="HssBoard::readIsx" name="HssBoard::readIsx">
-<area shape="rect" id="node2" href="$de/d64/group__hallswitchcpphal.html#ga50e30d06aa81ceb57d8798cf4a239bec" title="Enable diagnosis function. " alt="" coords="193,37,319,64"/>
-<area shape="rect" id="node4" href="$de/d64/group__hallswitchcpphal.html#gaf95e2a30e05d03a2e75c39938276b0d3" title="Read IS. " alt="" coords="209,149,303,176"/>
-<area shape="rect" id="node9" href="$de/d64/group__hallswitchcpphal.html#gae02b91df1311f4f004e2dc6a9bd70094" title="Disable diagnosis function. " alt="" coords="192,236,320,263"/>
+<area shape="rect" id="node2" href="$de/d7e/classHss.html#a50e30d06aa81ceb57d8798cf4a239bec" title="Enable diagnosis function. " alt="" coords="193,37,319,64"/>
+<area shape="rect" id="node4" href="$de/d7e/classHss.html#af95e2a30e05d03a2e75c39938276b0d3" title="Read IS. " alt="" coords="209,149,303,176"/>
+<area shape="rect" id="node9" href="$de/d7e/classHss.html#ae02b91df1311f4f004e2dc6a9bd70094" title="Disable diagnosis function. " alt="" coords="192,236,320,263"/>
 <area shape="rect" id="node3" href="$d7/dde/classGPIO.html#a9fe4b4e3a68e8c4df663cc084357b460" title="Enables the GPIO output according to the GPIO logic. " alt="" coords="401,5,505,32"/>
 <area shape="rect" id="node5" href="$dc/dea/classTimer.html#ae4d88c04713dadad65eb5e31f2bfc227" title="Introduces a delay during the specified time. " alt="" coords="391,56,514,83"/>
 <area shape="rect" id="node6" href="$d3/d68/classAnalogDigitalConverter.html#a977edb99d09216595aa3c7173afe3800" title="AnalogDigitalConverter\l::ADCRead" alt="" coords="368,107,537,149"/>

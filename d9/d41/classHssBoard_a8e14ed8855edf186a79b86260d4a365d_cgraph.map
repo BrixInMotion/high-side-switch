@@ -1,6 +1,6 @@
 <map id="HssBoard::deinit" name="HssBoard::deinit">
 <area shape="rect" id="node2" href="$d7/dde/classGPIO.html#a0531e0c0d2abc6a56b80f4fc8d1559e8" title="Deinitializes the GPIO. " alt="" coords="354,5,450,32"/>
-<area shape="rect" id="node3" href="$de/d64/group__hallswitchcpphal.html#ga2d9622c33cab849ac34af536160abe41" title="Deinitialize the High&#45;Side&#45;Switch. " alt="" coords="180,51,269,77"/>
+<area shape="rect" id="node3" href="$de/d7e/classHss.html#a2d9622c33cab849ac34af536160abe41" title="Deinitialize the High&#45;Side&#45;Switch. " alt="" coords="180,51,269,77"/>
 <area shape="rect" id="node4" href="$d3/d68/classAnalogDigitalConverter.html#ab236c8fcc7b98711b291ba06e4c52cad" title="AnalogDigitalConverter\l::deinit" alt="" coords="317,61,487,102"/>
 <area shape="rect" id="node5" href="$dc/dea/classTimer.html#a8973f80bb3039d752657fcbb64c6bfb0" title="Deinitialize the timer. " alt="" coords="351,135,453,161"/>
 </map>
