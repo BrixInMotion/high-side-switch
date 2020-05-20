@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['hallswitchcpphal',['Hallswitchcpphal',['../de/d64/group__hallswitchcpphal.html',1,'']]],
-  ['hallswitchhwi',['Hallswitchhwi',['../d7/d6a/group__hallswitchhwi.html',1,'']]],
-  ['hssdata',['HssData',['../da/d43/group__HssData.html',1,'']]]
+  ['hsspal',['hsspal',['../d0/d68/group__defgroup.html',1,'']]],
+  ['hallswitchcpphal',['Hallswitchcpphal',['../de/d64/group__hallswitchcpphal.html',1,'']]]
 ];

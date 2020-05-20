@@ -2,6 +2,7 @@ var group__hallswitchcpphal =
 [
     [ "Hss", "de/d64/group__hallswitchcpphal.html#ga417b52405344ddaf53f494b1df1a3f45", null ],
     [ "Hss", "de/d64/group__hallswitchcpphal.html#ga580577f72b24852185b5ff7d81c60eeb", null ],
+    [ "~Hss", "de/d64/group__hallswitchcpphal.html#gaa68c8341ee1ed251e6e35de905ab2395", null ],
     [ "init", "de/d64/group__hallswitchcpphal.html#gab196fd7f366d0c25a039940c23a2efb5", null ],
     [ "deinit", "de/d64/group__hallswitchcpphal.html#ga2d9622c33cab849ac34af536160abe41", null ],
     [ "enable", "de/d64/group__hallswitchcpphal.html#ga72ccadf7034b9f509c84998ddc0d2edb", null ],

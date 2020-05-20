@@ -1,4 +1,87 @@
 var group__hsscorelib =
 [
-    [ "Platform Abstraction Layer", "de/dfd/group__hsspal.html", null ]
+    [ "Platform Abstraction Layer", "de/dfd/group__hsspal.html", null ],
+    [ "HssBoard", "d9/d41/classHssBoard.html", [
+      [ "HssBoard", "d9/d41/classHssBoard.html#a08c4e7e61870ddfb49aa0c13a6132dbc", null ],
+      [ "~HssBoard", "d9/d41/classHssBoard.html#a6cdb478235f854b0ba3b7e6a0816cd1f", null ],
+      [ "init", "d9/d41/classHssBoard.html#a65c1047c6c5b0ebf68d94a4a00161688", null ],
+      [ "deinit", "d9/d41/classHssBoard.html#a8e14ed8855edf186a79b86260d4a365d", null ],
+      [ "switchHxOn", "d9/d41/classHssBoard.html#a7e4bddf71a47aa6f304f6cd14d0fb5b4", null ],
+      [ "switchHxOff", "d9/d41/classHssBoard.html#a014972bbc3c8a9b9b1066da391655218", null ],
+      [ "switchesHxOn", "d9/d41/classHssBoard.html#a959944960cb90876a1bbfde221d2d521", null ],
+      [ "switchesHxOff", "d9/d41/classHssBoard.html#ac415624c89f0a8d06f325b585732dd5f", null ],
+      [ "readDiagx", "d9/d41/classHssBoard.html#aeb09dd06752d0f67d5686c667e3c5c59", null ],
+      [ "diagnosisOff", "d9/d41/classHssBoard.html#a692a254e5dc5dca7832e8969e27a2523", null ],
+      [ "readIsx", "d9/d41/classHssBoard.html#a016c00397bed30c409ba3948aae135b6", null ],
+      [ "readVss", "d9/d41/classHssBoard.html#a755e5b290c07a79f41d6853e70f5761b", null ],
+      [ "digitalReadButton", "d9/d41/classHssBoard.html#a2250f2cb725f2ec6e1714bfb5efe62d1", null ],
+      [ "analogReadButton", "d9/d41/classHssBoard.html#a53c0b404bfbe084f47d138bca4b318a3", null ],
+      [ "filterVbat", "d9/d41/classHssBoard.html#a1f49ca798f9ea4d377dedd08aa9836e7", null ],
+      [ "led1", "d9/d41/classHssBoard.html#a98b82eeafcda9da2a8bc4e5f94336ca1", null ],
+      [ "led2", "d9/d41/classHssBoard.html#ad61b573a5a35d9e2e55b807e27ae9033", null ],
+      [ "led3", "d9/d41/classHssBoard.html#a543c07996bb5b1a8b789017458854623", null ],
+      [ "led4", "d9/d41/classHssBoard.html#a246b21ad0326e09661d23532b032e2aa", null ],
+      [ "hss1", "d9/d41/classHssBoard.html#a9a02923773994fe5ae5e22dc42f13278", null ],
+      [ "hss2", "d9/d41/classHssBoard.html#a5bb8dedce43ba50551dd417a57e7eb40", null ],
+      [ "hss3", "d9/d41/classHssBoard.html#a15aae8d09647e6b22845b9d4acb4f4e1", null ],
+      [ "hss4", "d9/d41/classHssBoard.html#ac76bf00a1f7845283fedd7175105cb82", null ],
+      [ "timer", "d9/d41/classHssBoard.html#a062f3934cc798650bbc1f6f49d51e44b", null ],
+      [ "oloff", "d9/d41/classHssBoard.html#a3d88ef1f3f1272539c0f1718d84f05ca", null ],
+      [ "pushButtonDigital", "d9/d41/classHssBoard.html#a42ff8bab416faefcb41f749571b99827", null ],
+      [ "pushButtonAnalog", "d9/d41/classHssBoard.html#a2a704eaede76bbb786372dfe23303822", null ],
+      [ "vBat", "d9/d41/classHssBoard.html#a3b36f2bda55af6f33987e15f741d968d", null ],
+      [ "vBatGain", "d9/d41/classHssBoard.html#adff2a117a3a0d20948d908f34ff60677", null ],
+      [ "vBatOffset", "d9/d41/classHssBoard.html#a3e2b57df86381837c15cb0571aea9bea", null ]
+    ] ],
+    [ "Hss", "de/d7e/classHss.html", [
+      [ "Error_t", "de/d7e/classHss.html#aa61e45180a1ae26f1e595f5eea82a948", [
+        [ "OK", "de/d7e/classHss.html#aa61e45180a1ae26f1e595f5eea82a948aaca2d9d74ab3bcade55002ce9afa113e", null ],
+        [ "INTF_ERROR", "de/d7e/classHss.html#aa61e45180a1ae26f1e595f5eea82a948a47216aaba221f0511d7b6ba46bb35d0a", null ],
+        [ "CONF_ERROR", "de/d7e/classHss.html#aa61e45180a1ae26f1e595f5eea82a948a06317e03e2dfaad66ead53a974fd4f6a", null ]
+      ] ],
+      [ "Status_t", "de/d7e/classHss.html#a1c65a9d3133d01b46c3225f7ea90b370", [
+        [ "UNINITED", "de/d7e/classHss.html#a1c65a9d3133d01b46c3225f7ea90b370a73da7da29141e521a939e50fad696c89", null ],
+        [ "INITED", "de/d7e/classHss.html#a1c65a9d3133d01b46c3225f7ea90b370adf3f9895bbb6cb7fc882a693c1160020", null ],
+        [ "POWER_ON", "de/d7e/classHss.html#a1c65a9d3133d01b46c3225f7ea90b370ae209ce989424a3dd381debe75bc62a9d", null ],
+        [ "POWER_OFF", "de/d7e/classHss.html#a1c65a9d3133d01b46c3225f7ea90b370aefc6d4053286430c5c9f7590e1214654", null ]
+      ] ],
+      [ "DiagEnable_t", "de/d7e/classHss.html#a30bd4045679c405f00ed1e79689ad65e", [
+        [ "DIAG_EN", "de/d7e/classHss.html#a30bd4045679c405f00ed1e79689ad65eaae8b0960505291a7ceb0e60889e5d0a9", null ],
+        [ "DIAG_DIS", "de/d7e/classHss.html#a30bd4045679c405f00ed1e79689ad65ea3b8b6b7fc447f557d503af9042f2ceec", null ]
+      ] ],
+      [ "DiagStatus_t", "de/d7e/classHss.html#a45422cf556a251f1c97939a0be25c3ba", [
+        [ "READ_ERROR", "de/d7e/classHss.html#a45422cf556a251f1c97939a0be25c3baa459a7f5ebd74be0badc91b4c264e0f20", null ],
+        [ "NOT_ENABLED", "de/d7e/classHss.html#a45422cf556a251f1c97939a0be25c3baa0194f70273a6d33d1959f8159c1388b5", null ],
+        [ "NORMAL", "de/d7e/classHss.html#a45422cf556a251f1c97939a0be25c3baa9d3ba23f8e1fac4d750dc488ab82468f", null ],
+        [ "OVERLOAD", "de/d7e/classHss.html#a45422cf556a251f1c97939a0be25c3baab56892cd32e593cc71f7ecf1d59a265e", null ],
+        [ "SHORT_TO_GND", "de/d7e/classHss.html#a45422cf556a251f1c97939a0be25c3baa86c2de5c544bb3894a5994909f9b5be8", null ],
+        [ "OVERTEMPERATURE", "de/d7e/classHss.html#a45422cf556a251f1c97939a0be25c3baad5e3853819c03e858ad49c748ea902ff", null ],
+        [ "SHORT_TO_VSS", "de/d7e/classHss.html#a45422cf556a251f1c97939a0be25c3baa10b678287a5812763bf5e797e83f64eb", null ],
+        [ "OPEN_LOAD", "de/d7e/classHss.html#a45422cf556a251f1c97939a0be25c3baa6697d528dc786fd6a710ac3638d3a44c", null ],
+        [ "UNDER_LOAD", "de/d7e/classHss.html#a45422cf556a251f1c97939a0be25c3baab564953b2c8afed7b93a51a0cf9ebde9", null ],
+        [ "INVERSE_CURRENT", "de/d7e/classHss.html#a45422cf556a251f1c97939a0be25c3baaeb17168bc98329ba4cd3e29639958121", null ]
+      ] ],
+      [ "Hss", "de/d64/group__hallswitchcpphal.html#ga417b52405344ddaf53f494b1df1a3f45", null ],
+      [ "Hss", "de/d64/group__hallswitchcpphal.html#ga580577f72b24852185b5ff7d81c60eeb", null ],
+      [ "~Hss", "de/d64/group__hallswitchcpphal.html#gaa68c8341ee1ed251e6e35de905ab2395", null ],
+      [ "init", "de/d64/group__hallswitchcpphal.html#gab196fd7f366d0c25a039940c23a2efb5", null ],
+      [ "deinit", "de/d64/group__hallswitchcpphal.html#ga2d9622c33cab849ac34af536160abe41", null ],
+      [ "enable", "de/d64/group__hallswitchcpphal.html#ga72ccadf7034b9f509c84998ddc0d2edb", null ],
+      [ "disable", "de/d64/group__hallswitchcpphal.html#ga382f3b8435e6181d5c35ac7c8c3a58e1", null ],
+      [ "enableDiag", "de/d64/group__hallswitchcpphal.html#ga50e30d06aa81ceb57d8798cf4a239bec", null ],
+      [ "disableDiag", "de/d64/group__hallswitchcpphal.html#gae02b91df1311f4f004e2dc6a9bd70094", null ],
+      [ "diagReset", "de/d64/group__hallswitchcpphal.html#gab86271a376ee258debd9fd6bde9ee278", null ],
+      [ "getSwitchStatus", "de/d64/group__hallswitchcpphal.html#gab2a012f18f61ba5fa7311827bbeb5da8", null ],
+      [ "diagRead", "de/d64/group__hallswitchcpphal.html#ga79339f64f445314957b07823952fd564", null ],
+      [ "readIs", "de/d64/group__hallswitchcpphal.html#gaf95e2a30e05d03a2e75c39938276b0d3", null ],
+      [ "den", "de/d7e/classHss.html#a2bfb659826b76c205a587ca4667b8c9a", null ],
+      [ "in", "de/d7e/classHss.html#a2c5da41182341f25eef496c0b144707d", null ],
+      [ "is", "de/d7e/classHss.html#a4084618db3fd4c44463cc972f02d9310", null ],
+      [ "timer", "de/d7e/classHss.html#a4ac0e48fef668732bb0ad57c71b59592", null ],
+      [ "currentFilter", "de/d7e/classHss.html#a254d9834a4b04b082f847e90f7276382", null ],
+      [ "btsVariant", "de/d7e/classHss.html#ae67b4da3cad15d67c484c1f0de88cb39", null ],
+      [ "status", "de/d7e/classHss.html#a11f00b88060627b95e05a2982233b3bf", null ],
+      [ "diagEnb", "de/d7e/classHss.html#a401b10c7b261da021968b8e034a92f4b", null ],
+      [ "diagStatus", "de/d7e/classHss.html#ada13af71bc1dde0eb53ce3fdadb957de", null ]
+    ] ]
 ];
