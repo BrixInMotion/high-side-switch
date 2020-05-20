@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['hsspal',['hssPal',['../d0/d68/group__defgroup.html',1,'']]],
   ['hardwareconfig_5ft',['hardwareconfig_t',['../db/ded/structhardwareconfig__t.html',1,'']]],
   ['hss',['Hss',['../de/d7e/classHss.html',1,'Hss'],['../de/d7e/classHss.html#a417b52405344ddaf53f494b1df1a3f45',1,'Hss::Hss()'],['../de/d7e/classHss.html#a580577f72b24852185b5ff7d81c60eeb',1,'Hss::Hss(GPIO *den, GPIO *in, AnalogDigitalConverter *is, BtsVariants_t *variant)']]],
   ['hss_2darduino_2ecpp',['hss-arduino.cpp',['../db/d72/hss-arduino_8cpp.html',1,'']]],
