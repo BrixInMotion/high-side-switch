@@ -1,0 +1,15 @@
+<map id="HssBoard::readDiagx" name="HssBoard::readDiagx">
+<area shape="rect" id="node2" href="$de/d64/group__hallswitchcpphal.html#ga50e30d06aa81ceb57d8798cf4a239bec" title="Enable diagnosis function. " alt="" coords="233,5,359,32"/>
+<area shape="rect" id="node3" href="$d7/dde/classGPIO.html#a9fe4b4e3a68e8c4df663cc084357b460" title="Enables the GPIO output according to the GPIO logic. " alt="" coords="431,31,535,57"/>
+<area shape="rect" id="node4" href="$de/d64/group__hallswitchcpphal.html#gab2a012f18f61ba5fa7311827bbeb5da8" title="Get the switch status. " alt="" coords="217,107,375,133"/>
+<area shape="rect" id="node5" href="$de/d64/group__hallswitchcpphal.html#ga79339f64f445314957b07823952fd564" title="Diagnosis of the Sensor. " alt="" coords="240,157,352,184"/>
+<area shape="rect" id="node6" href="$de/d64/group__hallswitchcpphal.html#gaf95e2a30e05d03a2e75c39938276b0d3" title="Read IS. " alt="" coords="436,183,529,209"/>
+<area shape="rect" id="node11" href="$dc/dea/classTimer.html#a5b72f03fa82bdc8932042d77abadcbfd" title="Introduces a delay during the specified time. " alt="" coords="229,259,363,285"/>
+<area shape="rect" id="node12" href="$d7/dde/classGPIO.html#ae2b3084845cf22ebda8d4705e9d9a40a" title="Disables the GPIO output according to the GPIO logic. " alt="" coords="429,360,536,387"/>
+<area shape="rect" id="node13" href="$d9/d41/classHssBoard.html#a692a254e5dc5dca7832e8969e27a2523" title="Calculates the diagnosis state. " alt="" coords="211,360,381,387"/>
+<area shape="rect" id="node14" href="$de/d64/group__hallswitchcpphal.html#gae02b91df1311f4f004e2dc6a9bd70094" title="Disable diagnosis function. " alt="" coords="232,411,360,437"/>
+<area shape="rect" id="node7" href="$dc/dea/classTimer.html#ae4d88c04713dadad65eb5e31f2bfc227" title="Introduces a delay during the specified time. " alt="" coords="607,91,730,117"/>
+<area shape="rect" id="node8" href="$d3/d68/classAnalogDigitalConverter.html#a977edb99d09216595aa3c7173afe3800" title="AnalogDigitalConverter\l::ADCRead" alt="" coords="584,142,753,183"/>
+<area shape="rect" id="node9" href="$d1/da7/classExponentialFilter.html#aca2f2d280e0aa578924b0f6b30c1bc6f" title="ExponentialFilter::\linput" alt="" coords="601,207,736,249"/>
+<area shape="rect" id="node10" href="$d1/da7/classExponentialFilter.html#a98dcb7448f0f365aff4356ab38987b57" title="ExponentialFilter::\loutput" alt="" coords="601,273,736,314"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="HssBoard::switchesHxOn" name="HssBoard::switchesHxOn">
+<area shape="rect" id="node2" href="$de/d64/group__hallswitchcpphal.html#ga72ccadf7034b9f509c84998ddc0d2edb" title="Enable the High&#45;Side&#45;Switch. " alt="" coords="235,5,332,32"/>
+<area shape="rect" id="node3" href="$d7/dde/classGPIO.html#a9fe4b4e3a68e8c4df663cc084357b460" title="Enables the GPIO output according to the GPIO logic. " alt="" coords="380,31,484,57"/>
+</map>

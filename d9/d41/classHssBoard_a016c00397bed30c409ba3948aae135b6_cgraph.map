@@ -1,0 +1,11 @@
+<map id="HssBoard::readIsx" name="HssBoard::readIsx">
+<area shape="rect" id="node2" href="$de/d64/group__hallswitchcpphal.html#ga50e30d06aa81ceb57d8798cf4a239bec" title="Enable diagnosis function. " alt="" coords="193,37,319,64"/>
+<area shape="rect" id="node4" href="$de/d64/group__hallswitchcpphal.html#gaf95e2a30e05d03a2e75c39938276b0d3" title="Read IS. " alt="" coords="209,149,303,176"/>
+<area shape="rect" id="node9" href="$de/d64/group__hallswitchcpphal.html#gae02b91df1311f4f004e2dc6a9bd70094" title="Disable diagnosis function. " alt="" coords="192,236,320,263"/>
+<area shape="rect" id="node3" href="$d7/dde/classGPIO.html#a9fe4b4e3a68e8c4df663cc084357b460" title="Enables the GPIO output according to the GPIO logic. " alt="" coords="401,5,505,32"/>
+<area shape="rect" id="node5" href="$dc/dea/classTimer.html#ae4d88c04713dadad65eb5e31f2bfc227" title="Introduces a delay during the specified time. " alt="" coords="391,56,514,83"/>
+<area shape="rect" id="node6" href="$d3/d68/classAnalogDigitalConverter.html#a977edb99d09216595aa3c7173afe3800" title="AnalogDigitalConverter\l::ADCRead" alt="" coords="368,107,537,149"/>
+<area shape="rect" id="node7" href="$d1/da7/classExponentialFilter.html#aca2f2d280e0aa578924b0f6b30c1bc6f" title="ExponentialFilter::\linput" alt="" coords="385,173,520,214"/>
+<area shape="rect" id="node8" href="$d1/da7/classExponentialFilter.html#a98dcb7448f0f365aff4356ab38987b57" title="ExponentialFilter::\loutput" alt="" coords="385,238,520,279"/>
+<area shape="rect" id="node10" href="$d7/dde/classGPIO.html#ae2b3084845cf22ebda8d4705e9d9a40a" title="Disables the GPIO output according to the GPIO logic. " alt="" coords="399,304,506,331"/>
+</map>

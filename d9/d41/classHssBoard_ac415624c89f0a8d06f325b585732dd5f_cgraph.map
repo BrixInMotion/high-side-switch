@@ -1,0 +1,4 @@
+<map id="HssBoard::switchesHxOff" name="HssBoard::switchesHxOff">
+<area shape="rect" id="node2" href="$de/d64/group__hallswitchcpphal.html#ga382f3b8435e6181d5c35ac7c8c3a58e1" title="Disable the High&#45;Side&#45;Switch. " alt="" coords="235,5,333,32"/>
+<area shape="rect" id="node3" href="$d7/dde/classGPIO.html#ae2b3084845cf22ebda8d4705e9d9a40a" title="Disables the GPIO output according to the GPIO logic. " alt="" coords="381,31,488,57"/>
+</map>

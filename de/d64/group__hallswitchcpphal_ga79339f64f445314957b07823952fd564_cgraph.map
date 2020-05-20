@@ -1,0 +1,7 @@
+<map id="Hss::diagRead" name="Hss::diagRead">
+<area shape="rect" id="node2" href="$de/d64/group__hallswitchcpphal.html#gaf95e2a30e05d03a2e75c39938276b0d3" title="Read IS. " alt="" coords="165,97,259,124"/>
+<area shape="rect" id="node3" href="$dc/dea/classTimer.html#ae4d88c04713dadad65eb5e31f2bfc227" title="Introduces a delay during the specified time. " alt="" coords="330,5,453,32"/>
+<area shape="rect" id="node4" href="$d3/d68/classAnalogDigitalConverter.html#a977edb99d09216595aa3c7173afe3800" title="AnalogDigitalConverter\l::ADCRead" alt="" coords="307,57,476,98"/>
+<area shape="rect" id="node5" href="$d1/da7/classExponentialFilter.html#aca2f2d280e0aa578924b0f6b30c1bc6f" title="ExponentialFilter::\linput" alt="" coords="324,122,459,163"/>
+<area shape="rect" id="node6" href="$d1/da7/classExponentialFilter.html#a98dcb7448f0f365aff4356ab38987b57" title="ExponentialFilter::\loutput" alt="" coords="324,187,459,229"/>
+</map>
